@@ -50,4 +50,3 @@ Numpy
 pip install numpy
 ```
 
->>>>>>> Classification using machine Learning
